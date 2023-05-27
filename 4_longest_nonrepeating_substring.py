@@ -34,6 +34,8 @@ class Solution:
 
         return maxSize
 
+    
+
 so = Solution()
 res = so.lengthOfLongestSubstringOptimal("abcabb")
 print(res)
